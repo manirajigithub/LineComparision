@@ -1,4 +1,4 @@
-﻿namespace LineComparision_EqualityOfLine
+namespace LineComparision_EqualityOfLine
 {
     class program
     {
