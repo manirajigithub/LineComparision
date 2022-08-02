@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\bin\Debug\net6.0\LineComparision_EqualityOfLine.exe
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\bin\Debug\net6.0\LineComparision_EqualityOfLine.deps.json
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\bin\Debug\net6.0\LineComparision_EqualityOfLine.runtimeconfig.json
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\bin\Debug\net6.0\LineComparision_EqualityOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\bin\Debug\net6.0\LineComparision_EqualityOfLine.pdb
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.AssemblyInfo.cs
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\refint\LineComparision_EqualityOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.pdb
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\LineComparision_EqualityOfLine.genruntimeconfig.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_EqualityOfLine\obj\Debug\net6.0\ref\LineComparision_EqualityOfLine.dll
