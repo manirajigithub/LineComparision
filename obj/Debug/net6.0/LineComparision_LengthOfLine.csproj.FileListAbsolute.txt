@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\bin\Debug\net6.0\LineComparision_LengthOfLine.exe
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\bin\Debug\net6.0\LineComparision_LengthOfLine.deps.json
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\bin\Debug\net6.0\LineComparision_LengthOfLine.runtimeconfig.json
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\bin\Debug\net6.0\LineComparision_LengthOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\bin\Debug\net6.0\LineComparision_LengthOfLine.pdb
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.AssemblyInfo.cs
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\refint\LineComparision_LengthOfLine.dll
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.pdb
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\LineComparision_LengthOfLine.genruntimeconfig.cache
+C:\Users\mani1\source\repos\LineComparision\LineComparision_LengthOfLine\obj\Debug\net6.0\ref\LineComparision_LengthOfLine.dll

@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace PerfectNumber
+{
+    class program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Calculate The Length Of Line");
+            UC1_Length lc = new UC1_Length();
+            lc.Lengthcal();
+        }
+    }
+}
+
