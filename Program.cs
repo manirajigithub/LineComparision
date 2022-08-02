@@ -1,4 +1,4 @@
-﻿namespace PerfectNumber
+﻿namespace LineComparision
 {
     class program
     {
