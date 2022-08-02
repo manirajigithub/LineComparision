@@ -6,7 +6,7 @@ namespace LeapYear
     {
         static void Main(string[] args)
         {
-            UC2_Leapyear.CheckUC2_leapyear();
+            UC2_LeapYear.CheckUC2_LeapYear();
         }
     }
 }
